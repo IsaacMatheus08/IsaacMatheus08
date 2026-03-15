@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Isaac! 👋
 
-<!--
-**IsaacMatheus08/IsaacMatheus08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Sistemas** e entusiasta da tecnologia. O que mais me motiva na programação é a capacidade de transformar ideias em realidade, seja criando sites, aplicativos funcionais ou explorando a lógica e o design por trás dos games.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias que estou estudando:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Interesses e Futuro:
+Além do foco atual em Web e Python, pretendo dominar linguagens como **JavaScript, C#, Java e C++** para aprofundar meus conhecimentos em desenvolvimento de software e jogos.
+
+### 🌟 Um pouco mais sobre mim:
+- 🎮 Nas horas vagas, sou gamer e fã de animes e doramas.
+- 📖 Gosto de dedicar tempo ao estudo de Teologia.
+- 💡 Acredito que a organização do design é tão importante quanto o código.
+
+### 📩 Vamos conversar?
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacmath1429@gmail.com)
