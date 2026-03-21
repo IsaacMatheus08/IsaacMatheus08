@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Isaac!
+# 👋 Olá, eu sou o Isaac
 
-💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS | Preparando-se para o mercado de tecnologia**
+💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML, CSS e 🕹️ Game Dev | Em constante evolução para o mercado de tecnologia**
 
 ---
 
@@ -8,6 +8,7 @@
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - 📚 Sempre aprendendo novas tecnologias e boas práticas de programação
 - 🌐 Interesse especial em **projetos web** e **desenvolvimento front-end**
+  - 🕹️ *Explorando conceitos iniciais de Game Development*
 
 ---
 
@@ -26,9 +27,9 @@
 ---
 
 ## 📬 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaac-matheus-higino-de-frança-7b093a3b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-matheus-higino-de-frança-7b093a3b7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacmath1429@gmail.com)
 
 ---
 
-✨ *"Sempre aprendendo e evoluindo como desenvolvedor."* ✨
+✨ *"Programação não é sobre o que você sabe; é sobre o que você consegue descobrir."* ✨
